@@ -2,7 +2,7 @@
 
 ### A basic configuration of Webpack built by me and for myself.
 
-##### It is designed to fit all the basic needs, this configuration is able to:
+### It is designed to fit all the basic needs, this configuration is able to:
 * Launch your app in production/development modes and with dev-server (see scripts in package.json);
 * Work with css / fonts / images;
 * Copy static files (like favicon) to dist;
