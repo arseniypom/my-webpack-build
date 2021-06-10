@@ -1,6 +1,6 @@
 # my-webpack-build
 
-### A basic configuration of Webpack built by me and for myself.
+### My basic custom configuration of Webpack
 
 ### It is designed to fit all the basic needs, this configuration is able to:
 * Launch your app in production/development modes and with dev-server (see scripts in package.json);
