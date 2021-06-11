@@ -1,0 +1,1 @@
+!function(){"use strict";document.addEventListener("DOMContentLoaded",(function(){document.querySelector("[data-role=alert-button]").addEventListener("click",(function(){var e;e="Hello there!",window.alert(e)}))}))}();

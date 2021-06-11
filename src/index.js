@@ -1,4 +1,4 @@
-import '@/styles/styles.css';
+import '@/styles/styles.scss';
 import alertMessage from "@/CustomeModule";
 
 document.addEventListener("DOMContentLoaded", () => {

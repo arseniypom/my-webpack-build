@@ -1,8 +1,11 @@
 @import '~normalize.css';
-@import 'fonts.css';
+@import 'fonts';
+
+$main-color: darkmagenta;
 
 body {
-  font-family: 'Rubik', sans-serif ;
+  font-family: 'Rubik', sans-serif;
+  color: $main-color;
 }
 
 .container {
